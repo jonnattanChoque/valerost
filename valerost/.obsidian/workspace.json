@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "fbf2328e912d6bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe1be6ca317f1b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71851a92a91f689f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da4e683c5d928324",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b03ef6d0a531cd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "079d20e5816fcfba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a749780d77e3aa79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"title\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "00cabcb682c28535",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "18db31d2bc773581",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce727ae0e5758f8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8865a7f2c4246ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedd66c565714a18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a5710c04535bfdbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Casius.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Casius"
+            }
+          },
+          {
+            "id": "62178fe5f1dd8b15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e56edd4e8b43632f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Casius.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Casius"
+            }
+          },
+          {
+            "id": "d5a06942c7788419",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c5ebff16aaff5f5f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "world-builder-sidebar",
+              "state": {},
+              "pinned": true,
+              "icon": "globe",
+              "title": "World Builder"
+            }
+          },
+          {
+            "id": "4c63ad8b8732fff0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "writing-goal-sprint",
+              "state": {},
+              "pinned": true,
+              "icon": "writing-goals-radar",
+              "title": "Writing sprint goal"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 534.483642578125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "bases:Crear nueva base": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "world-builder:World Builder": false,
+      "character-sheets:Create new character sheet ": false
+    }
+  },
+  "active": "079d20e5816fcfba",
+  "lastOpenFiles": [
+    "World/dyes/Verdugo.md",
+    "World/dyes/Titiritero.md",
+    "World/dyes/Termogenesis.md",
+    "World/dyes/Sabueso.md",
+    "World/dyes/Resonador.md",
+    "World/dyes/Nocturno.md",
+    "World/dyes/Marfil.md",
+    "World/dyes/Maleable.md",
+    "World/dyes/Lazaro.md",
+    "World/dyes/Invasor.md",
+    "World/dyes/Hacker.md",
+    "World/dyes/Blindaje.md",
+    "World/dyes/Berserker.md",
+    "World/dyes",
+    "World/Valerost.md",
+    "World/Tinte.md",
+    "Plot/The inicident.md",
+    "Plot",
+    "Characters/Istros.md",
+    "Characters/Casius.md",
+    "Characters",
+    "World/Characters/Ardis.md",
+    "World/Characters/Dariun.md",
+    "World/Characters/Casius.md",
+    "World/Characters/Istros.md",
+    "World/Characters/Deila.md",
+    "World/Lore/Lazaro.md",
+    "World/Lore/Resonador.md",
+    "World/Lore/Termogenesis.md",
+    "World/Factions",
+    "Sin título.canvas",
+    "Sin título.base",
+    "World/Timeline",
+    "World/Lore",
+    "World/Characters",
+    "Book",
+    "Book"
+  ]
+}

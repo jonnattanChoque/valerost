@@ -1,0 +1,3 @@
+- **Rol:** precavido y callado.
+- Familia: Hermano de [[Casius]]
+- Habilidad: [[Invasor]]
